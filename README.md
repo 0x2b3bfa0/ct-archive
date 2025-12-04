@@ -47,10 +47,10 @@ logs, as well as tools to archive RFC 6962 and Static CT logs.
 | mammoth2026h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2026h2 † |
 | sabre2024h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2024h1 |
 | sabre2024h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2024h2 |
-| sabre2025h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2025h2 [WIP] |
+| sabre2025h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2025h2 |
 | sabre2026h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2026h1 † |
 | sabre2026h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2026h2 † |
-| ct2024.trustasia.com/log2024 | https://archive.org/details/ct_trustasia_log2024 [WIP] |
+| ct2024.trustasia.com/log2024 | https://archive.org/details/ct_trustasia_log2024 |
 | halloumi2026h2.log.ct.ipng.ch | https://ct.ipng.ch/archive/halloumi2026h2/ |
 
 † *These logs were mistakenly archived without the `issuer/` directory.*
